@@ -24,7 +24,7 @@ public class Name {
 
     // Uma palavra por conceito
     //B
-    public saveUser(){}; createAccount(){}; generateContract(){};
+    public saveUser(){}; saveAccount(){}; saveContract(){};
 
 
     //Use constants, enums instead of magic numbers, abbreviations
